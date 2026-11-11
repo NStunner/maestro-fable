@@ -1,7 +1,7 @@
 {
   "name": "maestro-fable",
-  "version": "1.0.0",
-  "description": "Fable plans, routes and reviews; Opus and Sonnet subagents do the work. Model and effort are chosen per task difficulty and learned per project, with every rule change approved by you.",
+  "version": "1.1.0",
+  "description": "Fable plans, routes and reviews; Opus and Sonnet subagents do the work. Model and effort are chosen per task difficulty and learned per project, with every rule change approved by you. Opus can take over as manager when Fable quota runs out.",
   "author": {
     "name": "Muhammet Enes Toy",
     "url": "https://github.com/NStunner"

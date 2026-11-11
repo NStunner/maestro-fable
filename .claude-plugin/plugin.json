@@ -1,0 +1,12 @@
+{
+  "name": "maestro-fable",
+  "version": "1.0.0",
+  "description": "Fable plans, routes and reviews; Opus and Sonnet subagents do the work. Model and effort are chosen per task difficulty and learned per project, with every rule change approved by you.",
+  "author": {
+    "name": "Muhammet Enes Toy",
+    "url": "https://github.com/NStunner"
+  },
+  "repository": "https://github.com/NStunner/maestro-fable",
+  "license": "MIT",
+  "keywords": ["claude-code", "skill", "orchestration", "subagents", "fable", "opus", "sonnet"]
+}

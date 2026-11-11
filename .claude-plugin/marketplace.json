@@ -1,0 +1,14 @@
+{
+  "name": "maestro-fable",
+  "owner": {
+    "name": "Muhammet Enes Toy",
+    "url": "https://github.com/NStunner"
+  },
+  "plugins": [
+    {
+      "name": "maestro-fable",
+      "source": "./",
+      "description": "Fable orchestrates and reviews; Opus/Sonnet subagents do the work, with per-project learned routing."
+    }
+  ]
+}
